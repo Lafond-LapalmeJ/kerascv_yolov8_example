@@ -40,7 +40,6 @@ dependencies:
   - icu=73.2=h59595ed_0
   - idna=3.6=pyhd8ed1ab_0
   - importlib-metadata=7.0.0=pyha770c72_0
-  - keras=2.14.0=pyhd8ed1ab_0
   - keyutils=1.6.1=h166bdaf_0
   - krb5=1.21.2=h659d440_0
   - ld_impl_linux-64=2.40=h41732ed_0
@@ -167,8 +166,6 @@ dependencies:
       - jupyterlab-pygments==0.3.0
       - jupyterlab-server==2.25.2
       - jupyterlab-widgets==3.0.9
-      - keras-core==0.1.7
-      - keras-cv==0.8.0
       - kiwisolver==1.4.5
       - markdown-it-py==3.0.0
       - matplotlib==3.8.2
